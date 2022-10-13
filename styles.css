@@ -90,6 +90,7 @@ h2 {
 }
 #gd-tx {
     width:189px;
+    font-style: italic;
 }
 #guide-box {
     display: flex;
