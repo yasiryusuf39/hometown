@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    margin:0px;
+    font-family: 'Happy Monkey', cursive;
+}
+#hero {
+    background-image: url("images/offa-co.jpg");
+    background-size: cover; 
+    height: 822px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+
+}
+#hero-h1 {
+    color:#F1FAEE;
+    font-size: 36px;
+    background: #E63946;
+    width: 200px;
+    border-radius: 10px;
+    padding: 9px 32px;
+    margin-bottom: 36px;
+}
+#hero-h3 {
+    color: #F1FAEE;
+    font-weight:24px;
+    background: #1D3557;
+    border-radius: 10px;
+    padding: 11px 32px;
+    width: 500px;
+    margin-top: 0px;
+}
+#three-places {
+height: 600px;
+background: #F1FAEE;
+margin-top: 0px;
+
+}
+
+.icon {
+    width: 200px;
+    height: 200px;
+    border-radius: 1000px;
+    margin: 70px 0 0 0;
+    border: 8px solid #E63946;
+}
+h2 {
+    margin: 0px;
+    padding-top: 45px;
+    font-size: 36px;
+    font-weight: 700;
+}
+.icon-tx {
+    width: 278px;
+    margin: 17px 0 0 0;
+}
+.common-att {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icon-h3 {
+    margin: 17px 0 0 0;
+}
+#places {
+    display: flex;
+    justify-content: space-around
+}
+#guide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 495px;
+    background: white;
+    margin: 0px;
+}
+#per {
+    width: 300px;
+    border-radius: 40px;
+    padding: 20px;
+    
+}
+#my-guide {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    padding: 20px;
+}
+#gd-tx {
+    width:189px;
+}
+#guide-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    background: #A8DADC;
+    box-shadow: 5px 5px 3px #1D3557;
+}
